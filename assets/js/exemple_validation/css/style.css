@@ -1,0 +1,5 @@
+#alerteCourriel {
+   display: none;
+   color: red;
+   position: absolute;   
+}
